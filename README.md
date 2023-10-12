@@ -11,8 +11,8 @@ You can install MATLAB using the link [MATLAB](https://www.mathworks.com/product
 You can install Python Interpreter using the link [Python](https://www.python.org/downloads/).
 
 ## Code
-There is a MATLAB file. This file will generate a Dahlia flower using MATLAB code.
+There are two files. Both these filea will generate a Dahlia flower.
 
-[MATLAB Script](https://github.com/adarshkashyap15/Dahlia-Flower/blob/main/Dahlia_flower.m)
-https://github.com/adarshkashyap15/Dahlia-Flower/blob/main/Dahlia_flower.ipynb
+1. [MATLAB Script](https://github.com/adarshkashyap15/Dahlia-Flower/blob/main/Dahlia_flower.m)
+2. [Python Script](https://github.com/adarshkashyap15/Dahlia-Flower/blob/main/Dahlia_flower.ipynb)
 
