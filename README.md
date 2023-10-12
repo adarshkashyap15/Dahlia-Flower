@@ -22,6 +22,6 @@ The output of this code will be a Dahlia flower
 <img src="https://github.com/adarshkashyap15/Dahlia-Flower/blob/main/Dahlia%20output.JPG" alt="Output" width="300" height="240" />
 
 ## Acknowledgement
-This work is done with the help of Zappo2. To view more check out his Github.[Zappo2 Github](http://spr.ly/6049PouzX)
+This work is done with the help of Zappo2. To view such digital art using MATLAB more check out his Github [Zappo2 Github](http://spr.ly/6049PouzX)
 
 
