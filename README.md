@@ -11,8 +11,11 @@ You can install MATLAB using the link [MATLAB](https://www.mathworks.com/product
 You can install Python Interpreter using the link [Python](https://www.python.org/downloads/).
 
 ## Code
-There are two files. Both these filea will generate a Dahlia flower.
+There are two files. Both these files will generate a Dahlia flower.
 
 1. [MATLAB Script](https://github.com/adarshkashyap15/Dahlia-Flower/blob/main/Dahlia_flower.m)
 2. [Jupyter Notebook file](https://github.com/adarshkashyap15/Dahlia-Flower/blob/main/Dahlia_flower.ipynb)
+
+## Results
+The output of this code will be a Dahlia flower
 
