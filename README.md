@@ -4,7 +4,7 @@ Dahlia is a flower generally found in Mexico and Central America. It is the nati
 <img src="https://github.com/adarshkashyap15/Dahlia-Flower/blob/main/Dahlia.jpg" alt="Project Logo" width="300" height="200" />
 
 ## Instructions
-This project is done in MATLAB as well as Python. So to run MATLAB code it is must to install MATLAB or use it online. If one wishes to run Python code then he/she needs to install appropriate Python Interpreter and Integrated Development Environment (IDE) or Text Editor.
+This project is done in MATLAB as well as Python. So to run MATLAB code it is must to install MATLAB or use it online. If one wishes to run Python code then he/she needs to install appropriate Python Interpreter and Integrated Development Environment (IDE) or Text Editor. Also, one can run python online using various online platforms.
 
 You can install MATLAB using the link [MATLAB](https://www.mathworks.com/products/matlab.html).
 
