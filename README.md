@@ -14,5 +14,5 @@ You can install Python Interpreter using the link [Python](https://www.python.or
 There are two files. Both these filea will generate a Dahlia flower.
 
 1. [MATLAB Script](https://github.com/adarshkashyap15/Dahlia-Flower/blob/main/Dahlia_flower.m)
-2. [Python Script](https://github.com/adarshkashyap15/Dahlia-Flower/blob/main/Dahlia_flower.ipynb)
+2. [Jupyter Notebook file](https://github.com/adarshkashyap15/Dahlia-Flower/blob/main/Dahlia_flower.ipynb)
 
